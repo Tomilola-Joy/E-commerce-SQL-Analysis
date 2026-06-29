@@ -13,7 +13,8 @@ TradeZone experienced explosive top-line growth but underlying operational probl
 
 # Data Analysis & Methodology
 
-# Dataset:TradeZone transactional data covering 2023-2024 across customers, sellers, orders, products, reviews, and payment methods.
+# Dataset
+TradeZone transactional data covering 2023-2024 across customers, sellers, orders, products, reviews, and payment methods.
 
 # Process: 
 - Data cleaning: handled NULL values, duplicates, inconsistent city formatting, and validated order totals against line items
